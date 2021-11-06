@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0"
+  },
+  "name": "netlify-analytics-dl",
+  "version": "0.1.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juho Salli <juho.salli@gmail.com>",
+  "license": "MIT",
+  "description": "Fetch Netlify Analytics data using the unofficial, undocumented API"
+}
